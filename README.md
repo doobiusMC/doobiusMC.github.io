@@ -13,4 +13,3 @@ This repository contains the small public project website. It does not contain t
 - Microsoft browser authorization with PKCE, Xbox Live/XSTS, and Minecraft Services entitlement/profile checking before normal game launch.
 - Windows-protected encrypted session storage. Passwords are entered on Microsoft's sign-in page.
 
-The current developer preview is 1.2.1. Microsoft browser authorization reaches Stratum, but Minecraft Services application approval is still required before account sign-in can complete. This website does not claim approval or link a public installer yet.
